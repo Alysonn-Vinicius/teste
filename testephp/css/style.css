@@ -1,0 +1,23 @@
+/*header ul*/
+main li:hover{
+    background:#001427;
+    color:#001427;
+}
+
+/* marcação de página:*/
+header  a:hover{
+    background: #284b63;
+    color: #000;
+}
+
+/*RODAPÉ*/
+footer{
+    padding: 50px 0px 20px 0px;
+    color: white;
+}
+footer li:hover {
+    color: cyan;
+}
+footer li a:hover {
+    color: cyan;
+}
