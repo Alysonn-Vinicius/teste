@@ -99,7 +99,7 @@
         </div>
     </main> <!--fim principal -->
 
-    <footer>
+    <footer class="bg-dark">
        <div class="container">
             <div class="row">
                 <div class="col-md-6">
